@@ -91,6 +91,9 @@ Le formulaire envoie un courriel via SMTP. Variables à définir (voir `.env.exa
 
 ## Déploiement
 
+Site en ligne : **https://econxstat.ibtech.click** (Vercel, projet `econxstat`, variable
+`NEXT_PUBLIC_SITE_URL=https://econxstat.ibtech.click`). Chaque push sur `main` redéploie automatiquement.
+
 ### Vercel
 
 1. Importer le dépôt dans Vercel (framework détecté automatiquement).
