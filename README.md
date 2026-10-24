@@ -76,13 +76,12 @@ La section **Témoignages** affiche « Bientôt disponible » en attendant de vr
 
 ## Images
 
-Les photos proviennent de l'ancien site. Pour les importer dans le dépôt :
+Les photos de l'ancien site sont versionnées dans `public/images/` (déjà optimisées :
+1400–1600 px pour les photos, 800 px pour les portraits). Le site ne dépend donc plus de WordPress.
 
-- **GitHub** : onglet _Actions_ → _Importer les images du site d'origine_ → _Run workflow_ ;
-- **en local** : `npm run images:fetch` puis `git add public/images && git commit`.
-
-Le script ne télécharge que les images manquantes et est aussi exécuté avant chaque build (`prebuild`).
-Pensez à importer les images **avant** de fermer le site WordPress.
+Pour ajouter ou remplacer une image : déposez le fichier dans `public/images/…`, puis déclarez-le
+dans `src/shared/config/images.json`. Le script `npm run images:fetch` (lancé aussi avant chaque build)
+ne retélécharge que les images manquantes depuis l'ancien site, tant que celui-ci est en ligne.
 
 ## Formulaire de contact
 
