@@ -1,0 +1,57 @@
+{
+  "name": "econxstat-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine d'ÉconXStat — cabinet de conseil en économie, statistique et science des données.",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "lint:fsd": "steiger ./src",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run",
+    "images:fetch": "node scripts/fetch-images.mjs",
+    "check": "npm run typecheck && npm run lint && npm run lint:fsd && npm run test",
+    "prebuild": "node scripts/fetch-images.mjs"
+  },
+  "devDependencies": {
+    "@feature-sliced/steiger-plugin": "^0.8.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.20.5",
+    "@types/nodemailer": "^8.0.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.3",
+    "prettier": "^3.9.10",
+    "prettier-plugin-tailwindcss": "^0.8.1",
+    "steiger": "^0.8.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.5"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.3.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.61.0",
+    "motion": "^14.6.0",
+    "next": "^16.4.3",
+    "next-intl": "^4.14.9",
+    "next-themes": "^0.4.6",
+    "nodemailer": "^10.2.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwind-merge": "^3.7.0",
+    "zod": "^4.6.7",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0"
+  }
+}

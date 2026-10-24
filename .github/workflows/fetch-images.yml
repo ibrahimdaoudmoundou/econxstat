@@ -1,0 +1,33 @@
+# Récupère les images de l'ancien site WordPress (econxstat.ca) et les ajoute au dépôt.
+# À lancer une fois depuis l'onglet « Actions » → « Importer les images du site d'origine » → « Run workflow ».
+name: Importer les images du site d'origine
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Retélécharger toutes les images'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Télécharger les images
+        run: node scripts/fetch-images.mjs ${{ inputs.force && '--force' || '' }}
+      - name: Valider dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/images
+          git diff --cached --quiet && echo "Aucune nouvelle image." && exit 0
+          git commit -m "chore(images): importer les images du site d'origine"
+          git push

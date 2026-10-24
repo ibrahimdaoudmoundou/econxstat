@@ -1,0 +1,352 @@
+{
+  "Metadata": {
+    "siteTitle": "ÉconXStat — Conseil en économie, statistique et science des données",
+    "siteDescription": "Cabinet de conseil en économie, statistique et économétrie : enquêtes, évaluation d'impact, modélisation, science des données et formation, appuyé par un réseau de chercheurs de l'Université Laval et d'ailleurs.",
+    "home": {
+      "title": "Conseil en économie, statistique et science des données",
+      "description": "ÉconXStat accompagne institutions, organisations internationales et entreprises avec des analyses économiques et statistiques rigoureuses, ainsi que des services de formation."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Consultation en statistique, économie, économétrie et informatique ; soutien scolaire, formation en logiciels et renforcement de capacités."
+    },
+    "about": {
+      "title": "À propos",
+      "description": "Notre mission, nos valeurs et l'équipe de chercheurs et d'économistes d'ÉconXStat."
+    },
+    "projects": {
+      "title": "Projets",
+      "description": "Nos références : évaluation d'impact, environnement, santé, données et développement, au Canada, en Afrique et ailleurs."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Parlez-nous de votre projet d'analyse, d'évaluation ou de formation. Réponse sous deux jours ouvrables."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "description": "Comment ÉconXStat collecte, utilise et protège vos renseignements personnels."
+    },
+    "notFound": {
+      "title": "Page introuvable"
+    }
+  },
+  "Nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+    "cta": "Demander une consultation",
+    "primary": "Navigation principale",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "skipToContent": "Aller au contenu",
+    "home_link": "ÉconXStat — accueil"
+  },
+  "LocaleSwitcher": {
+    "label": "Changer de langue",
+    "fr": "Français",
+    "en": "English"
+  },
+  "ThemeToggle": {
+    "toLight": "Passer au thème clair",
+    "toDark": "Passer au thème sombre"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Économie · Statistique · Science des données",
+      "title": "Des données rigoureuses pour des <hl>décisions qui comptent.</hl>",
+      "description": "La maîtrise des technologies de pointe en science des données constitue notre force vive. Notre cabinet s'articule autour de deux axes : la consultation et la formation.",
+      "ctaPrimary": "Demander une consultation",
+      "ctaSecondary": "Découvrir nos services",
+      "imageAlt": "Analyste examinant des graphiques financiers sur un ordinateur portable"
+    },
+    "stats": {
+      "label": "ÉconXStat en chiffres",
+      "projects": "projets de référence",
+      "countries": "pays d'intervention",
+      "experts": "chercheurs et experts",
+      "since": "première mission"
+    },
+    "services": {
+      "eyebrow": "Nos services",
+      "title": "Deux axes, une même exigence de qualité",
+      "description": "Nous intervenons dans le monde professionnel par la consultation, et dans le monde académique par un accompagnement de proximité.",
+      "consulting": {
+        "title": "Consultation",
+        "text": "En nous appuyant sur un réseau d'experts internes et externes travaillant notamment en économie du développement, de la santé, de l'éducation et de l'environnement, nous intervenons dans tous les champs de l'économie."
+      },
+      "training": {
+        "title": "Formation",
+        "text": "En étroite collaboration avec des chercheurs de plusieurs universités, nous proposons un accompagnement personnalisé pour la réussite scolaire et le renforcement des compétences."
+      },
+      "more": "Voir le détail des services"
+    },
+    "domains": {
+      "label": "Domaines d'intervention",
+      "items": [
+        "Économie du développement",
+        "Économie de la santé",
+        "Économie de l'éducation",
+        "Économie de l'environnement",
+        "Évaluation d'impact",
+        "Données satellitaires",
+        "Suivi-évaluation",
+        "Intelligence artificielle appliquée"
+      ]
+    },
+    "approach": {
+      "eyebrow": "Notre démarche",
+      "title": "Une méthode claire, de la question à la décision",
+      "description": "Chaque mandat suit une démarche structurée pour garantir des résultats fiables, transparents et directement utilisables.",
+      "steps": {
+        "scope": {
+          "title": "Cadrage",
+          "text": "Nous précisons vos questions, vos contraintes et les indicateurs qui serviront à mesurer le succès."
+        },
+        "data": {
+          "title": "Données",
+          "text": "Conception d'enquêtes, collecte, nettoyage et structuration des données, y compris satellitaires."
+        },
+        "analysis": {
+          "title": "Analyse",
+          "text": "Modélisation économétrique, évaluation d'impact et science des données selon les standards de la recherche."
+        },
+        "delivery": {
+          "title": "Restitution",
+          "text": "Rapports, tableaux de bord et recommandations claires, avec transfert de compétences à vos équipes."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "Clients et partenaires",
+      "title": "Un lien étroit entre recherche et terrain",
+      "text": "Nous développons des partenariats avec de nombreux organismes et institutions actifs dans le domaine de l'économie. Pour mener à bien sa mission, notre équipe garde un lien étroit avec le milieu académique et les centres de recherche, et collabore régulièrement avec des chercheurs dans plusieurs pays.",
+      "network": "Pour contribuer au développement des pays du Sud, nous avons aussi tissé des relations avec des cabinets locaux spécialisés dans notre domaine d'expertise.",
+      "imageAlt": "Poignée de main entre partenaires d'affaires",
+      "cta": "En savoir plus sur le cabinet"
+    },
+    "projects": {
+      "eyebrow": "Références",
+      "title": "Des projets à fort impact",
+      "description": "Évaluations, études et missions de données menées pour des organisations internationales, des gouvernements et des cabinets partenaires.",
+      "cta": "Voir tous les projets"
+    },
+    "clients": {
+      "title": "Ils nous ont fait confiance"
+    },
+    "team": {
+      "eyebrow": "Notre équipe",
+      "title": "Des chercheurs au service de vos projets",
+      "description": "Notre cabinet réunit des chercheurs de différentes universités intervenant en économie, en statistique et en économétrie.",
+      "cta": "Rencontrer toute l'équipe"
+    },
+    "testimonials": {
+      "eyebrow": "Témoignages",
+      "title": "Ce que disent nos clients",
+      "comingSoon": "Bientôt disponible",
+      "comingSoonText": "Les témoignages de nos clients et partenaires seront publiés prochainement."
+    }
+  },
+  "Services": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "Expertise économique et statistique, de la donnée à la décision",
+      "description": "Consultation pour les organisations, formation pour les étudiants et les équipes : une offre complète portée par des chercheurs."
+    },
+    "nav": "Accès rapide",
+    "consulting": {
+      "eyebrow": "Consultation",
+      "title": "Un appui technique dans tous les champs de l'économie",
+      "description": "Statistique, économie, économétrie et informatique : nous combinons rigueur académique et pragmatisme opérationnel."
+    },
+    "training": {
+      "eyebrow": "Formation",
+      "title": "Accompagner la réussite et renforcer les compétences",
+      "description": "Soutien scolaire, formation aux logiciels de référence et renforcement de capacités pour les équipes et les institutions.",
+      "imageAlt": "Étudiants travaillant ensemble autour d'un ordinateur"
+    },
+    "tools": {
+      "title": "Outils et langages enseignés"
+    }
+  },
+  "About": {
+    "hero": {
+      "eyebrow": "À propos",
+      "title": "Un cabinet de chercheurs, au service de l'action publique et privée",
+      "description": "ÉconXStat fournit des services de qualité en économie et en statistique, en s'appuyant sur un réseau d'experts internes et externes."
+    },
+    "mission": {
+      "eyebrow": "Notre mission",
+      "title": "Rendre l'analyse économique rigoureuse accessible",
+      "paragraphs": [
+        "ÉconXStat est un cabinet qui a pour objectif de fournir des services de qualité dans le domaine de l'économie et de la statistique en s'appuyant sur un réseau d'experts internes et externes.",
+        "Nos activités se résument en deux grands axes. D'une part, nous intervenons dans le monde professionnel en fournissant de la consultation en économie et en statistique, en veillant à garantir des services de qualité. D'autre part, pour apporter notre contribution au monde académique, nous offrons des services de soutien scolaire aux étudiants grâce à un accompagnement de proximité qui favorise leur réussite."
+      ],
+      "imageAlt": "Illustration de la mission d'ÉconXStat"
+    },
+    "values": {
+      "eyebrow": "Nos valeurs",
+      "title": "Ce qui guide notre travail",
+      "items": {
+        "rigor": {
+          "title": "Rigueur scientifique",
+          "text": "Des méthodes issues de la recherche, documentées et reproductibles."
+        },
+        "independence": {
+          "title": "Indépendance",
+          "text": "Des analyses objectives, au service de la meilleure décision."
+        },
+        "proximity": {
+          "title": "Proximité",
+          "text": "Un accompagnement attentif, adapté au contexte de chaque client."
+        },
+        "impact": {
+          "title": "Impact",
+          "text": "Des résultats concrets, utiles au développement des populations."
+        }
+      }
+    },
+    "network": {
+      "eyebrow": "Clients et partenaires",
+      "title": "Un réseau international",
+      "text": "Nous développons des partenariats avec de nombreux organismes et institutions actifs dans le domaine de l'économie. Notre équipe garde un lien étroit avec le milieu académique et les centres de recherche, et collabore régulièrement avec des chercheurs dans plusieurs pays. Nous avons également tissé des relations avec des cabinets locaux spécialisés dans notre domaine d'expertise."
+    },
+    "team": {
+      "eyebrow": "Notre équipe",
+      "title": "Les experts d'ÉconXStat",
+      "description": "Économistes, statisticiens et informaticiens issus de l'Université Laval et d'autres universités, réunis autour d'une même exigence de qualité.",
+      "founder": "Co-fondateur",
+      "viewProfile": "Voir le profil",
+      "expertise": "Domaines d'expertise",
+      "close": "Fermer"
+    }
+  },
+  "Projects": {
+    "hero": {
+      "eyebrow": "Projets",
+      "title": "Nos références",
+      "description": "Évaluation d'impact, environnement, santé, données et développement : un aperçu des mandats et travaux de recherche menés par notre équipe."
+    },
+    "filter": {
+      "label": "Filtrer par domaine",
+      "all": "Tous",
+      "results": "{count, plural, =0 {Aucun projet} one {# projet} other {# projets}}"
+    },
+    "categories": {
+      "impact": "Évaluation d'impact",
+      "environment": "Environnement",
+      "health": "Santé et éducation",
+      "data": "Données et statistiques",
+      "development": "Développement"
+    },
+    "labels": {
+      "country": "Pays",
+      "client": "Client",
+      "year": "Année"
+    },
+    "inPublication": "Recherche en voie de publication",
+    "mapAlt": "Carte du monde illustrant la portée internationale des projets"
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Parlons de votre projet",
+      "description": "Une question, un besoin d'analyse ou de formation ? Écrivez-nous : nous vous répondons rapidement."
+    },
+    "info": {
+      "title": "Nous joindre",
+      "email": "Courriel",
+      "response": "Délai de réponse",
+      "responseValue": "Sous deux jours ouvrables",
+      "languages": "Langues",
+      "languagesValue": "Français et anglais"
+    },
+    "form": {
+      "title": "Envoyer un message",
+      "name": "Nom complet",
+      "email": "Adresse courriel",
+      "organization": "Organisation",
+      "optional": "facultatif",
+      "subject": "Objet",
+      "subjects": {
+        "consulting": "Consultation",
+        "training": "Formation / soutien scolaire",
+        "partnership": "Partenariat",
+        "other": "Autre demande"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Décrivez brièvement votre projet, vos objectifs et vos échéances.",
+      "consent": "J'accepte qu'ÉconXStat utilise ces renseignements pour répondre à ma demande, conformément à la politique de confidentialité.",
+      "privacyLink": "politique de confidentialité",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours…",
+      "required": "Champs obligatoires",
+      "success": "Merci ! Votre message a bien été envoyé. Nous vous répondrons dans les meilleurs délais.",
+      "errors": {
+        "name": "Veuillez indiquer votre nom.",
+        "email": "Veuillez indiquer une adresse courriel valide.",
+        "subject": "Veuillez choisir un objet.",
+        "message": "Votre message doit contenir au moins 20 caractères.",
+        "consent": "Votre consentement est nécessaire pour traiter la demande.",
+        "rateLimited": "Trop de messages envoyés. Veuillez réessayer plus tard.",
+        "server": "Le message n'a pas pu être envoyé. Écrivez-nous directement à {email}."
+      }
+    }
+  },
+  "Privacy": {
+    "hero": {
+      "eyebrow": "Confidentialité",
+      "title": "Politique de confidentialité",
+      "description": "Nous protégeons vos renseignements personnels conformément à la Loi 25 (Québec) et à la LPRPDE (Canada)."
+    },
+    "updated": "Dernière mise à jour : octobre 2026",
+    "sections": [
+      {
+        "title": "Responsable de la protection des renseignements personnels",
+        "body": "ÉconXStat est responsable des renseignements personnels recueillis sur ce site. Pour toute question ou demande, écrivez à info@econxstat.ca."
+      },
+      {
+        "title": "Renseignements recueillis",
+        "body": "Nous recueillons uniquement les renseignements que vous nous transmettez volontairement par le formulaire de contact : nom, adresse courriel, organisation (facultative), objet et contenu de votre message."
+      },
+      {
+        "title": "Finalités",
+        "body": "Ces renseignements servent exclusivement à répondre à votre demande et à assurer le suivi de nos échanges. Ils ne sont jamais vendus ni utilisés à des fins publicitaires."
+      },
+      {
+        "title": "Témoins (cookies) et mesure d'audience",
+        "body": "Ce site n'utilise aucun témoin publicitaire ni outil de suivi. Un témoin strictement fonctionnel peut mémoriser votre choix de langue et de thème d'affichage."
+      },
+      {
+        "title": "Conservation et sécurité",
+        "body": "Vos messages sont conservés le temps nécessaire au traitement de votre demande, puis supprimés. Les échanges avec le site sont chiffrés (HTTPS) et l'accès aux données est limité aux membres de l'équipe concernés."
+      },
+      {
+        "title": "Vos droits",
+        "body": "Vous pouvez à tout moment demander l'accès à vos renseignements, leur rectification ou leur suppression, ou retirer votre consentement, en écrivant à info@econxstat.ca. Vous pouvez aussi déposer une plainte auprès de la Commission d'accès à l'information du Québec."
+      }
+    ]
+  },
+  "Cta": {
+    "title": "Un projet d'analyse, d'évaluation ou de formation ?",
+    "text": "Parlons de vos objectifs. Notre équipe vous propose une approche adaptée à votre contexte et à vos échéances.",
+    "primary": "Nous contacter",
+    "secondary": "Voir nos services"
+  },
+  "Footer": {
+    "tagline": "Cabinet de conseil en économie, statistique et science des données. Consultation et formation, portées par un réseau de chercheurs.",
+    "explore": "Explorer",
+    "services": "Services",
+    "contact": "Nous joindre",
+    "rights": "Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "backToTop": "Haut de page"
+  },
+  "NotFound": {
+    "eyebrow": "Erreur 404",
+    "title": "Cette page est introuvable",
+    "text": "La page que vous cherchez a peut-être été déplacée depuis la refonte du site.",
+    "back": "Retour à l'accueil"
+  }
+}

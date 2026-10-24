@@ -1,0 +1,138 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource/poppins/500.css';
+@import '@fontsource/poppins/600.css';
+@import '@fontsource/poppins/700.css';
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ------------------------------------------------------------------
+ * Identité visuelle ÉconXStat
+ * Reprise de l'ancien site : charbon #1D1E1E, ardoise #33474E,
+ * bleus du logo #1F9FCF → #006080, titres Poppins, texte Inter.
+ * ------------------------------------------------------------------ */
+@theme {
+  --font-sans: 'Inter Variable', 'Segoe UI', system-ui, sans-serif;
+  --font-display: 'Poppins', 'Inter Variable', system-ui, sans-serif;
+
+  --color-ink: #1d1e1e;
+  --color-ink-soft: #1f2527;
+  --color-slate-brand: #33474e;
+
+  --color-brand-50: #ecf8fd;
+  --color-brand-100: #d3eef9;
+  --color-brand-200: #a9ddf2;
+  --color-brand-300: #6fc5e7;
+  --color-brand-400: #38acdb;
+  --color-brand-500: #1f9fcf;
+  --color-brand-600: #1283b0;
+  --color-brand-700: #006080;
+  --color-brand-800: #054e68;
+  --color-brand-900: #0a4156;
+  --color-brand-950: #062a39;
+
+  --animate-marquee: marquee 40s linear infinite;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+/* Jetons sémantiques (clair / sombre) */
+:root {
+  --background: #ffffff;
+  --surface: #f6f8f9;
+  --surface-strong: #eef2f4;
+  --foreground: #1d1e1e;
+  --muted: #4a5b61;
+  --border: #dde4e7;
+  --accent: #006080;
+  --accent-foreground: #ffffff;
+  color-scheme: light;
+}
+
+.dark {
+  --background: #121414;
+  --surface: #1a1d1e;
+  --surface-strong: #22272a;
+  --foreground: #eef2f3;
+  --muted: #a7b4b9;
+  --border: #2c3337;
+  --accent: #38acdb;
+  --accent-foreground: #062a39;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-strong: var(--surface-strong);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display text-balance;
+    letter-spacing: -0.015em;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  ::selection {
+    @apply bg-brand-200 text-ink;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-accent;
+  }
+}
+
+@utility container-page {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+/* Motif de grille discret, rappel des graphiques de données */
+@utility bg-grid {
+  background-image:
+    linear-gradient(
+      to right,
+      color-mix(in oklab, currentColor 8%, transparent) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      to bottom,
+      color-mix(in oklab, currentColor 8%, transparent) 1px,
+      transparent 1px
+    );
+  background-size: 48px 48px;
+}

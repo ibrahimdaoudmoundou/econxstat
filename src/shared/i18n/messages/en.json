@@ -1,0 +1,352 @@
+{
+  "Metadata": {
+    "siteTitle": "ÉconXStat — Economics, Statistics & Data Science Consulting",
+    "siteDescription": "Economics, statistics and econometrics consulting firm: surveys, impact evaluation, modelling, data science and training, backed by a network of researchers from Université Laval and beyond.",
+    "home": {
+      "title": "Economics, statistics and data science consulting",
+      "description": "ÉconXStat supports institutions, international organisations and businesses with rigorous economic and statistical analysis, as well as training services."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Consulting in statistics, economics, econometrics and computing; academic support, software training and capacity building."
+    },
+    "about": {
+      "title": "About",
+      "description": "Our mission, our values and the team of researchers and economists behind ÉconXStat."
+    },
+    "projects": {
+      "title": "Projects",
+      "description": "Our track record: impact evaluation, environment, health, data and development, in Canada, Africa and beyond."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Tell us about your analysis, evaluation or training project. We reply within two business days."
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "description": "How ÉconXStat collects, uses and protects your personal information."
+    },
+    "notFound": {
+      "title": "Page not found"
+    }
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Request a consultation",
+    "primary": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to content",
+    "home_link": "ÉconXStat — home"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "fr": "Français",
+    "en": "English"
+  },
+  "ThemeToggle": {
+    "toLight": "Switch to light theme",
+    "toDark": "Switch to dark theme"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Economics · Statistics · Data science",
+      "title": "Rigorous data for <hl>decisions that matter.</hl>",
+      "description": "Our strength lies in our mastery of cutting-edge data science technology. Our firm is built around two pillars: consulting and training.",
+      "ctaPrimary": "Request a consultation",
+      "ctaSecondary": "Explore our services",
+      "imageAlt": "Analyst reviewing financial charts on a laptop"
+    },
+    "stats": {
+      "label": "ÉconXStat in numbers",
+      "projects": "reference projects",
+      "countries": "countries of operation",
+      "experts": "researchers and experts",
+      "since": "first engagement"
+    },
+    "services": {
+      "eyebrow": "Our services",
+      "title": "Two pillars, one standard of quality",
+      "description": "We serve the professional world through consulting, and the academic world through close, personalised support.",
+      "consulting": {
+        "title": "Consulting",
+        "text": "Drawing on a network of internal and external experts working in development, health, education and environmental economics, we can intervene in every field of economics."
+      },
+      "training": {
+        "title": "Training",
+        "text": "In close collaboration with researchers from several universities, we offer personalised support for academic success and skills development."
+      },
+      "more": "See all services"
+    },
+    "domains": {
+      "label": "Areas of practice",
+      "items": [
+        "Development economics",
+        "Health economics",
+        "Education economics",
+        "Environmental economics",
+        "Impact evaluation",
+        "Satellite data",
+        "Monitoring & evaluation",
+        "Applied artificial intelligence"
+      ]
+    },
+    "approach": {
+      "eyebrow": "Our approach",
+      "title": "A clear method, from question to decision",
+      "description": "Every engagement follows a structured process to deliver reliable, transparent and immediately usable results.",
+      "steps": {
+        "scope": {
+          "title": "Scoping",
+          "text": "We clarify your questions, constraints and the indicators that will measure success."
+        },
+        "data": {
+          "title": "Data",
+          "text": "Survey design, collection, cleaning and structuring of data, including satellite data."
+        },
+        "analysis": {
+          "title": "Analysis",
+          "text": "Econometric modelling, impact evaluation and data science to research standards."
+        },
+        "delivery": {
+          "title": "Delivery",
+          "text": "Reports, dashboards and clear recommendations, with skills transfer to your teams."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "Clients & partners",
+      "title": "A close link between research and the field",
+      "text": "We build partnerships with many organisations and institutions active in economics. To fulfil our mission, our team keeps close ties with academia and research centres, and regularly collaborates with researchers in several countries.",
+      "network": "To support development in the Global South, we have also built relationships with local firms specialising in our field of expertise.",
+      "imageAlt": "Business partners shaking hands",
+      "cta": "Learn more about the firm"
+    },
+    "projects": {
+      "eyebrow": "Track record",
+      "title": "High-impact projects",
+      "description": "Evaluations, studies and data assignments for international organisations, governments and partner firms.",
+      "cta": "See all projects"
+    },
+    "clients": {
+      "title": "Trusted by"
+    },
+    "team": {
+      "eyebrow": "Our team",
+      "title": "Researchers working on your projects",
+      "description": "Our firm brings together researchers from several universities working in economics, statistics and econometrics.",
+      "cta": "Meet the whole team"
+    },
+    "testimonials": {
+      "eyebrow": "Testimonials",
+      "title": "What our clients say",
+      "comingSoon": "Coming soon",
+      "comingSoonText": "Testimonials from our clients and partners will be published shortly."
+    }
+  },
+  "Services": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "Economic and statistical expertise, from data to decision",
+      "description": "Consulting for organisations, training for students and teams: a complete offering delivered by researchers."
+    },
+    "nav": "Quick access",
+    "consulting": {
+      "eyebrow": "Consulting",
+      "title": "Technical support across every field of economics",
+      "description": "Statistics, economics, econometrics and computing: we combine academic rigour with operational pragmatism."
+    },
+    "training": {
+      "eyebrow": "Training",
+      "title": "Supporting success and building skills",
+      "description": "Academic support, training on reference software and capacity building for teams and institutions.",
+      "imageAlt": "Students working together around a laptop"
+    },
+    "tools": {
+      "title": "Tools and languages we teach"
+    }
+  },
+  "About": {
+    "hero": {
+      "eyebrow": "About",
+      "title": "A firm of researchers serving public and private action",
+      "description": "ÉconXStat delivers quality services in economics and statistics, drawing on a network of internal and external experts."
+    },
+    "mission": {
+      "eyebrow": "Our mission",
+      "title": "Making rigorous economic analysis accessible",
+      "paragraphs": [
+        "ÉconXStat is a firm whose goal is to provide quality services in economics and statistics, drawing on a network of internal and external experts.",
+        "Our activities fall into two main areas. On the one hand, we serve the professional world with economics and statistics consulting, always ensuring quality. On the other, to contribute to the academic world, we provide tutoring services to students, with close support that fosters their success."
+      ],
+      "imageAlt": "Illustration of ÉconXStat's mission"
+    },
+    "values": {
+      "eyebrow": "Our values",
+      "title": "What guides our work",
+      "items": {
+        "rigor": {
+          "title": "Scientific rigour",
+          "text": "Research-grade methods that are documented and reproducible."
+        },
+        "independence": {
+          "title": "Independence",
+          "text": "Objective analysis in service of the best decision."
+        },
+        "proximity": {
+          "title": "Proximity",
+          "text": "Attentive support, tailored to each client's context."
+        },
+        "impact": {
+          "title": "Impact",
+          "text": "Concrete results that benefit people and their development."
+        }
+      }
+    },
+    "network": {
+      "eyebrow": "Clients & partners",
+      "title": "An international network",
+      "text": "We build partnerships with many organisations and institutions active in economics. Our team keeps close ties with academia and research centres, and regularly collaborates with researchers in several countries. We have also built relationships with local firms specialising in our field of expertise."
+    },
+    "team": {
+      "eyebrow": "Our team",
+      "title": "The ÉconXStat experts",
+      "description": "Economists, statisticians and computer scientists from Université Laval and other universities, united by the same standard of quality.",
+      "founder": "Co-founder",
+      "viewProfile": "View profile",
+      "expertise": "Areas of expertise",
+      "close": "Close"
+    }
+  },
+  "Projects": {
+    "hero": {
+      "eyebrow": "Projects",
+      "title": "Our track record",
+      "description": "Impact evaluation, environment, health, data and development: an overview of the engagements and research carried out by our team."
+    },
+    "filter": {
+      "label": "Filter by area",
+      "all": "All",
+      "results": "{count, plural, =0 {No projects} one {# project} other {# projects}}"
+    },
+    "categories": {
+      "impact": "Impact evaluation",
+      "environment": "Environment",
+      "health": "Health & education",
+      "data": "Data & statistics",
+      "development": "Development"
+    },
+    "labels": {
+      "country": "Country",
+      "client": "Client",
+      "year": "Year"
+    },
+    "inPublication": "Research forthcoming",
+    "mapAlt": "World map illustrating the international reach of our projects"
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Let's talk about your project",
+      "description": "A question, or a need for analysis or training? Write to us and we will get back to you quickly."
+    },
+    "info": {
+      "title": "Get in touch",
+      "email": "Email",
+      "response": "Response time",
+      "responseValue": "Within two business days",
+      "languages": "Languages",
+      "languagesValue": "French and English"
+    },
+    "form": {
+      "title": "Send a message",
+      "name": "Full name",
+      "email": "Email address",
+      "organization": "Organisation",
+      "optional": "optional",
+      "subject": "Subject",
+      "subjects": {
+        "consulting": "Consulting",
+        "training": "Training / academic support",
+        "partnership": "Partnership",
+        "other": "Other request"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Briefly describe your project, goals and timeline.",
+      "consent": "I agree that ÉconXStat may use this information to respond to my request, in accordance with the privacy policy.",
+      "privacyLink": "privacy policy",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "required": "Required fields",
+      "success": "Thank you! Your message has been sent. We will get back to you shortly.",
+      "errors": {
+        "name": "Please enter your name.",
+        "email": "Please enter a valid email address.",
+        "subject": "Please choose a subject.",
+        "message": "Your message must be at least 20 characters long.",
+        "consent": "Your consent is required to process the request.",
+        "rateLimited": "Too many messages sent. Please try again later.",
+        "server": "The message could not be sent. Please email us directly at {email}."
+      }
+    }
+  },
+  "Privacy": {
+    "hero": {
+      "eyebrow": "Privacy",
+      "title": "Privacy policy",
+      "description": "We protect your personal information in accordance with Québec's Law 25 and Canada's PIPEDA."
+    },
+    "updated": "Last updated: October 2026",
+    "sections": [
+      {
+        "title": "Person responsible for personal information",
+        "body": "ÉconXStat is responsible for the personal information collected on this site. For any question or request, write to info@econxstat.ca."
+      },
+      {
+        "title": "Information collected",
+        "body": "We only collect the information you voluntarily provide through the contact form: name, email address, organisation (optional), subject and the content of your message."
+      },
+      {
+        "title": "Purposes",
+        "body": "This information is used solely to respond to your request and follow up on our exchanges. It is never sold or used for advertising."
+      },
+      {
+        "title": "Cookies and analytics",
+        "body": "This site uses no advertising cookies or tracking tools. A strictly functional cookie may remember your language and display theme preferences."
+      },
+      {
+        "title": "Retention and security",
+        "body": "Your messages are kept only as long as needed to handle your request, then deleted. Connections to the site are encrypted (HTTPS) and access to data is limited to the relevant team members."
+      },
+      {
+        "title": "Your rights",
+        "body": "You may at any time request access to, correction or deletion of your information, or withdraw your consent, by writing to info@econxstat.ca. You may also file a complaint with the Commission d'accès à l'information du Québec."
+      }
+    ]
+  },
+  "Cta": {
+    "title": "Have an analysis, evaluation or training project?",
+    "text": "Let's talk about your goals. Our team will propose an approach tailored to your context and timeline.",
+    "primary": "Contact us",
+    "secondary": "View our services"
+  },
+  "Footer": {
+    "tagline": "Economics, statistics and data science consulting firm. Consulting and training, delivered by a network of researchers.",
+    "explore": "Explore",
+    "services": "Services",
+    "contact": "Get in touch",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "backToTop": "Back to top"
+  },
+  "NotFound": {
+    "eyebrow": "Error 404",
+    "title": "This page could not be found",
+    "text": "The page you are looking for may have moved since the website was redesigned.",
+    "back": "Back to home"
+  }
+}
