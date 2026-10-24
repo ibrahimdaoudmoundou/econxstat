@@ -10,44 +10,38 @@
     "heroAnalytics": {
       "src": "/images/site/hero-analytics.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2023/10/homme-affaires-graphique-ordinateur-portable.jpg?w=2000",
-      "width": 2000,
-      "height": 1333
+      "width": 1600,
+      "height": 1068
     },
     "teamMeeting": {
       "src": "/images/site/team-meeting.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2023/10/hommes-affaires-analysant-graphique-financier-travaillant-presentation-entreprise-pendant-bureau-entreprise-demarrage-divers-entrepreneurs-reflechissent-idees-projet-gestion-discutant-pa.jpg?w=1600",
-      "width": 1600,
-      "height": 1067
+      "width": 1400,
+      "height": 933
     },
     "handshake": {
       "src": "/images/site/partnership-handshake.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2023/10/multiracial-business-handshake-as-concept-help-support-teamwork-1.jpg?w=1600",
-      "width": 1600,
-      "height": 1067
-    },
-    "teamPhoto": {
-      "src": "/images/site/team-group.jpg",
-      "origin": "https://econxstat.ca/wp-content/uploads/2022/12/whatsapp-image-2022-12-05-a-02.00.12.jpg?w=1600",
-      "width": 1600,
-      "height": 1200
+      "width": 1400,
+      "height": 933
     },
     "consultingHero": {
       "src": "/images/site/consulting-meeting.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2023/10/afro-americain-costume-tenant-documents-parlant-patronne.jpg?w=2000",
-      "width": 2000,
-      "height": 1335
+      "width": 1600,
+      "height": 1068
     },
     "training": {
       "src": "/images/site/training.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2023/10/pexels-artem-podrez-5716001.jpg?w=1600",
-      "width": 1600,
-      "height": 1067
+      "width": 1400,
+      "height": 788
     },
     "network": {
       "src": "/images/site/network.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2024/03/3d-render-background-design-network-communications-1.jpg?w=2000",
-      "width": 2000,
-      "height": 1125
+      "width": 1600,
+      "height": 1200
     },
     "mission": {
       "src": "/images/site/mission.jpg",
@@ -58,14 +52,14 @@
     "strategy": {
       "src": "/images/site/strategy.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2024/03/document-marketing-strategy-business-concept-2.jpg?w=2000",
-      "width": 2000,
-      "height": 1244
+      "width": 1600,
+      "height": 995
     },
     "worldMap": {
       "src": "/images/site/world-map.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2024/03/mondialisation-mondiale-carte-du-monde-concept-conservation-environnement.jpg?w=1600",
       "width": 1600,
-      "height": 1067
+      "height": 831
     },
     "glassBuilding": {
       "src": "/images/site/glass-building.jpg",
@@ -83,25 +77,25 @@
       "src": "/images/team/moubarak-moundou-megna.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2022/12/whatsapp-image-2022-12-05-a-01.49.03-edited.jpg?w=800",
       "width": 800,
-      "height": 800
+      "height": 801
     },
     "horace": {
       "src": "/images/team/horace-gninafon.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2022/12/whatsapp-image-2022-12-05-a-01.18.08-edited.jpg?w=800",
-      "width": 800,
-      "height": 800
+      "width": 413,
+      "height": 413
     },
     "blaise": {
       "src": "/images/team/blaise-boton.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2022/12/whatsapp-image-2022-11-29-a-00.31.27.jpg?w=800",
       "width": 800,
-      "height": 800
+      "height": 795
     },
     "dieudonne": {
-      "src": "/images/team/dieudonne-tamfutu-munsi.png",
+      "src": "/images/team/dieudonne-tamfutu-munsi.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2026/01/image-edited.png?w=800",
-      "width": 800,
-      "height": 800
+      "width": 450,
+      "height": 450
     },
     "idrissa": {
       "src": "/images/team/idrissa-abdou.jpg",
@@ -110,7 +104,7 @@
       "height": 800
     },
     "naimi": {
-      "src": "/images/team/naimi-abdelmonem.png",
+      "src": "/images/team/naimi-abdelmonem.jpg",
       "origin": "https://econxstat.ca/wp-content/uploads/2026/10/econxstat-6ac59e05c52bb.png?w=800",
       "width": 800,
       "height": 800
@@ -126,6 +120,12 @@
       "origin": "https://econxstat.ca/wp-content/uploads/2026/10/media-edited.jpg?w=800",
       "width": 800,
       "height": 800
+    },
+    "partnerBcep": {
+      "src": "/images/partners/bcep.jpg",
+      "origin": "https://econxstat.ca/wp-content/uploads/2022/12/whatsapp-image-2022-12-05-a-02.00.12.jpg?w=1600",
+      "width": 250,
+      "height": 66
     }
   }
 }

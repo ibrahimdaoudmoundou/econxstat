@@ -35,6 +35,7 @@ export const MemberCard = ({
           src={photo.src}
           alt={member.name}
           fill
+          style={{ objectPosition: member.photoPosition }}
           sizes="(min-width: 1280px) 22vw, (min-width: 768px) 30vw, 90vw"
           className="object-cover object-top transition-transform duration-500 group-hover:scale-[1.03]"
         />

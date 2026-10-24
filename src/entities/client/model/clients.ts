@@ -5,7 +5,7 @@ export type Client = {
   name: Localized;
 };
 
-/** Organisations citées comme clients dans les références du site d'origine. */
+/** Clients (références) et partenaires cités sur le site d'origine. */
 export const clients: Client[] = [
   { id: 'world-bank', name: { fr: 'Banque mondiale', en: 'World Bank' } },
   {
@@ -30,4 +30,11 @@ export const clients: Client[] = [
     },
   },
   { id: 'apexmachina', name: { fr: 'Cabinet Apexmachina', en: 'Apexmachina' } },
+  {
+    id: 'bcep',
+    name: {
+      fr: 'BCEP — Bureau de consultants en évaluation de programmes',
+      en: 'BCEP — Programme Evaluation Consultants',
+    },
+  },
 ];

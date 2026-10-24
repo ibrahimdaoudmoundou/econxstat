@@ -30,6 +30,7 @@ export const MemberProfileDialog = ({ member }: { member: TeamMember }) => {
                 src={photo.src}
                 alt={member.name}
                 fill
+                style={{ objectPosition: member.photoPosition }}
                 sizes="(min-width: 768px) 240px, 90vw"
                 className="object-cover object-top md:rounded-l-3xl"
               />

@@ -9,7 +9,7 @@ import { buttonVariants, Reveal, Section, SectionHeading } from '@/shared/ui';
 export const AboutTeaser = async ({ locale }: { locale: Locale }) => {
   const t = await getTranslations({ locale, namespace: 'Home.about' });
   const handshake = getImage('handshake');
-  const team = getImage('teamPhoto');
+  const team = getImage('teamMeeting');
 
   return (
     <Section>

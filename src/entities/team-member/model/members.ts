@@ -212,6 +212,7 @@ export const teamMembers: TeamMember[] = [
     id: 'bintou-ball',
     name: 'Bintou Ball',
     photo: 'bintou',
+    photoPosition: 'left center',
     role: {
       fr: 'Consultante en économie et analyse de données',
       en: 'Economics & Data Analysis Consultant',

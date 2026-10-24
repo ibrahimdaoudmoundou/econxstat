@@ -7,6 +7,8 @@ export type TeamMember = {
   /** Titre honorifique affiché devant le nom (ex. « Dr »). */
   honorific?: string;
   photo: ImageKey;
+  /** Cadrage CSS (object-position) si le visage n'est pas centré, ex. « left center ». */
+  photoPosition?: string;
   role: Localized;
   /** Co-fondateur du cabinet. */
   founder?: boolean;

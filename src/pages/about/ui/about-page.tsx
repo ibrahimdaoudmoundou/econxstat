@@ -18,7 +18,7 @@ const values = [
 export const AboutPage = async ({ locale }: { locale: Locale }) => {
   const t = await getTranslations({ locale, namespace: 'About' });
   const paragraphs = t.raw('mission.paragraphs') as string[];
-  const teamPhoto = getImage('teamPhoto');
+  const missionPhoto = getImage('strategy');
   const mission = getImage('mission');
 
   return (
@@ -43,7 +43,7 @@ export const AboutPage = async ({ locale }: { locale: Locale }) => {
           <Reveal className="relative">
             <div className="relative aspect-[4/3] overflow-hidden rounded-[2rem]">
               <Image
-                src={teamPhoto.src}
+                src={missionPhoto.src}
                 alt=""
                 fill
                 sizes="(min-width: 1024px) 45vw, 100vw"
